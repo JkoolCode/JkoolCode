@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Junior Oblitas</h1>
 <h3 align="center">A passionate frontend and Backend developer from Peru</h3>
 
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A little more about me...  
+
+```javascript
+const junior = (programmer) => {
+  principal: "Java",
+  code: [Javascript, Typescript, Angular, HTML5, CSS, C#, C++],
+  tools: [SpringBoot, ViualStudioCode, STS4, Netbeans, Eclipse],
+  architecture: ["design system pattern", "monolithic", "microservices"],
+  CompetitiveProgramming: {
+                            ["HackerRank", "CodeChef", "Codeforces", "CSES Problem set"]
+                          },
+ challenge: "I like to solve algorithms problems on the online judges"
+}
+```
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/cjr.oblitas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@cjr.oblitas" height="30" width="40" /></a>
