@@ -13,7 +13,7 @@ const junior = (programmer) => {
     CompetitiveProgramming: {
                               ["HackerRank", "CodeChef", "Codeforces", "CSES Problem set"]
                             },
-   challenge: "I like to solve algorithms problems on the online judges"
+   challenge: "I like to solve algorithm problems on the online judges"
   }
 }
 ```
