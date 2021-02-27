@@ -5,14 +5,16 @@
 
 ```javascript
 const junior = (programmer) => {
-  principal: "Java",
-  code: [Javascript, Typescript, Angular, HTML5, CSS, C#, C++],
-  tools: [SpringBoot, ViualStudioCode, STS4, Netbeans, Eclipse],
-  architecture: ["design system pattern", "monolithic", "microservices"],
-  CompetitiveProgramming: {
-                            ["HackerRank", "CodeChef", "Codeforces", "CSES Problem set"]
-                          },
- challenge: "I like to solve algorithms problems on the online judges"
+  const skills = {
+    principal: "Java",
+    code: [Javascript, Typescript, Angular, HTML5, CSS, C#, C++],
+    tools: [SpringBoot, ViualStudioCode, STS4, Netbeans, Eclipse],
+    architecture: ["design system pattern", "monolithic", "microservices"],
+    CompetitiveProgramming: {
+                              ["HackerRank", "CodeChef", "Codeforces", "CSES Problem set"]
+                            },
+   challenge: "I like to solve algorithms problems on the online judges"
+  }
 }
 ```
 
