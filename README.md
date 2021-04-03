@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junior Oblitas</h1>
-<h3 align="center">A passionate frontend and Backend developer from Peru</h3>
+<h3 align="center">A passionate Backend and Frontend developer from Peru</h3>
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A little more about me...  
 
