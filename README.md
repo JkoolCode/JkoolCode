@@ -7,11 +7,11 @@
 const junior = (programmer) => {
   const skills = {
     principal: "Java",
-    code: [Javascript, Typescript, Angular, HTML5, CSS, C#, C++],
+    code: [Javascript, Typescript, Angular, HTML5, CSS, C#, C++, Python],
     tools: [SpringBoot, ViualStudioCode, STS4, Netbeans, Eclipse],
     architecture: ["design system pattern", "monolithic", "microservices"],
     CompetitiveProgramming: {
-                              ["HackerRank", "CodeChef", "Codeforces", "CSES Problem set"]
+                              ["HackerRank", "CodeChef", "Codewars", "CSES Problem set"]
                             },
    challenge: "I like to solve algorithm problems on the online judges"
   }
